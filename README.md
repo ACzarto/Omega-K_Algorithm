@@ -5,4 +5,4 @@ In this code we generate the synthetic raw data (supposing 3 corner reflectors o
 
 The final Radar Image that was generated is given by
 
-<img width="508" height="465" alt="Captura de Tela 2026-06-18 às 22 37 46" src="https://github.com/user-attachments/assets/9751401c-ae96-4559-969c-ccce10dc36f5" />
+![SARImage](SAR_Image.png)
